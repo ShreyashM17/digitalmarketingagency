@@ -25,7 +25,7 @@ body{
 }
 /* popup form */
 .popupform{
-    position: absolute;
+    position: fixed;
     background-color: #f1f1f18e;
     height: 100vh;
     width: 100vw;

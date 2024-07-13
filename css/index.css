@@ -10,6 +10,20 @@ body{
     align-items: center;
     flex-direction: column;
 }
+/* custom scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #ffffff;
+}
+::-webkit-scrollbar-thumb {
+  background: #FF3147;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #FF3366;
+}
+/* popup form */
 .popupform{
     position: absolute;
     background-color: #f1f1f18e;
@@ -421,6 +435,7 @@ input{
         order: 1;
     }
 }
+/* section3 */
 .section3{
     position: relative;
     left: 0%;
@@ -463,6 +478,7 @@ input{
     text-align: left;
     font-size: 20px;
 }
+/* section4 */
 .section4{
     position: relative;
     left: 0%;
@@ -548,6 +564,7 @@ input{
     background-color: #FF3147;
     color: #F6F6F6;
 }
+/* section5 */
 .section5{
     position: relative;
     left: 0%;
@@ -579,6 +596,7 @@ input{
 .card1:hover{
     box-shadow: 3px 6px 20px 10px #672C2C1F ;
 }
+/* section6 */
 .section6{
     position: relative;
     left: 0%;
@@ -619,6 +637,7 @@ input{
     color: #808080;
     font-size: 20px;
 }
+/* footer */
 .footer{
     position: relative;
     background-color: #FF3147;
@@ -630,6 +649,7 @@ input{
     justify-content: center;
     height: 40vh;
 }
+/* responsive */
 @media screen and (max-width: 1300px){
     .section4{
         height: auto;

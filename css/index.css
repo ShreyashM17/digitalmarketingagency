@@ -187,7 +187,7 @@ input{
     border-radius: 2px;
     display: flex;
     justify-content: right;
-    background-image: url("images/hero.png");
+    background-image: url("/digitalmarketingagency/images/hero.png");
     background-repeat: no-repeat;
     background-size: auto;
     background-position: center;
@@ -278,7 +278,7 @@ input{
 /*Images for slide*/
 .image1{
     background-color: #ffffff;
-    background: url("images/1.png");
+    background: url("/digitalmarketingagency/images/1.png");
     background-repeat: no-repeat;
     background-size: cover;
     width: 300px;
@@ -288,7 +288,7 @@ input{
 }
 .image2{
     background-color: #ffffff;
-    background: url("images/2.png");
+    background: url("/digitalmarketingagency/images/2.png");
     background-repeat: no-repeat;
     background-size: cover;
     width: 300px;
@@ -298,7 +298,7 @@ input{
 }
 .image3{
     background-color: #ffffff;
-    background: url("images/3.png");
+    background: url("/digitalmarketingagency/images/3.png");
     background-repeat: no-repeat;
     background-size:auto;
     width: 300px;
@@ -496,7 +496,7 @@ input{
     align-items: center;
 }
 .image2-2{
-    background-image: url("images/image.png");
+    background-image: url("/digitalmarketingagency/images/image.png");
     position: relative;
     display: flex;
     width: 100%;
@@ -505,7 +505,7 @@ input{
     background-size: cover;
 }
 .image2-1{
-    background-image: url("images/japan1.jpg");
+    background-image: url("/digitalmarketingagency/images/japan1.jpg");
     position: relative;
     display: none;
     width: 100%;
@@ -514,7 +514,7 @@ input{
     background-size: cover;
 }
 .image2-3{
-    background-image: url("images/japan2.jpg");
+    background-image: url("/digitalmarketingagency/images/japan2.jpg");
     position: relative;
     display: none;
     width: 100%;
